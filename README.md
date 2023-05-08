@@ -15,3 +15,6 @@
 
 https://docs.modular.com/
 
+# Modular Blog
+
+https://www.modular.com/blog
