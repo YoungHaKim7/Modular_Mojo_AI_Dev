@@ -18,3 +18,8 @@ https://docs.modular.com/
 # Modular Blog
 
 https://www.modular.com/blog
+
+
+# A guidance language for controlling large language models(LLM).
+
+https://github.com/microsoft/guidance
