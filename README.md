@@ -19,6 +19,13 @@ https://docs.modular.com/
 
 https://www.modular.com/blog
 
+<hr>
+
+# ▲ 모든 LLM 개발자가 알아야 하는 숫자 (github.com/ray-project)
+
+- LLM을 사용할 때 중요한 숫자에 대한 정리. https://github.com/ray-project/llm-numbers
+
+https://news.hada.io/topic?id=9206&utm_source=weekly&utm_medium=email&utm_campaign=202321
 
 # A guidance language for controlling large language models(LLM).
 
