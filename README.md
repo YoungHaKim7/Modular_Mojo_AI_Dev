@@ -1,3 +1,9 @@
+# 언어소개 | 찐 파이썬 킬러?! 해외에서 난리난 언어 Mojo 🔥
+
+https://youtu.be/fYb2DkFo01U
+
+<hr>
+
 # Mojo 🔥 — a new programming language for all AI developers.
 
 - Mojo combines the usability of Python with the performance of C, unlocking unparalleled programmability of AI hardware and extensibility of AI models.
