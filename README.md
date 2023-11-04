@@ -6,6 +6,10 @@
 
 # Install(LinuxOS)
 
+- python3.10-venv 설치 되어 있어야함
+```
+sudo apt install python3.10-venv
+```
 
 - install
 
