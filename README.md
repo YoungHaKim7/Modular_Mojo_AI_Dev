@@ -4,6 +4,24 @@
 
 <hr>
 
+# Install(LinuxOS)
+
+
+- install
+
+```
+sudo apt-get update && \
+sudo apt-get install modular && \
+modular clean && \
+modular install mojo
+
+
+```
+
+- 다음 auth 해주면 된다. 
+
+https://developer.modular.com/download
+
 # PATH
 
 ```bash
