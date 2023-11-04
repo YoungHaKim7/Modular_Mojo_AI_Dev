@@ -26,6 +26,18 @@ modular install mojo
 
 https://developer.modular.com/download
 
+- ```modular clean && modular install mojo```
+
+```
+$ modular clean
+
+ 
+$ modular install mojo
+# Found release for https://packages.modular.com/mojo @ 0.5.0
+# Installing to /home/gy/.modular/pkg/packages.modular.com_mojo
+# Downloading artifacts. Please wait..
+```
+
 # PATH
 
 ```bash
