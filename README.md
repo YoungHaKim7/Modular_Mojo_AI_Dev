@@ -21,6 +21,9 @@ https://youtu.be/fYb2DkFo01U
 
 https://docs.modular.com/
 
+- tutorial
+  - https://github.com/modularml/mojo
+
 # Modular Blog
 
 https://www.modular.com/blog
