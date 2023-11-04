@@ -1,18 +1,23 @@
 from algorithm.functional import vectorize
 from memory.unsafe import DTypePointer
+from sys.info import simdwidthof
 
 
 fn main():
     alias size: Int = 9
-    let p = DTypePointer[DType.int16].alloc(size)
+    alias type = DType.int16
+    alias els = simdwidthof[type]()
+    print(els)
 
-    for i in range(size):
-        print(i)
+    let p = DTypePointer[type].alloc(size)
+
+    # for i in range(size):
+    #     print(i)
 
     @parameter
     fn closure[els: Int](i: Int):
         print("Putting: ", els, "elements at: ", i)
 
-    vectorize[4, closure](size)
+    vectorize[els, closure](size)
 
-    p.simd_load[size](0)
+    print(p.simd_load[size](0))
