@@ -4,6 +4,16 @@
 
 <hr>
 
+
+# vim tab setting
+
+```
+set tabstop=2
+set shiftwidth=2
+```
+
+<hr>
+
 # Install(LinuxOS)
 
 - python3.10-venv 설치 되어 있어야함
