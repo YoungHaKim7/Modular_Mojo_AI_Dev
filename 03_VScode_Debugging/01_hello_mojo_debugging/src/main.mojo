@@ -21,3 +21,10 @@ fn main():
     vectorize[els, closure](size)
 
     print(p.simd_load[size](0))
+
+
+struct MyInt:
+    var data: Int
+
+    fn __init__(inout self, i: Int):
+        self.data = i
