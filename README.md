@@ -17,6 +17,10 @@ set shiftwidth=4
 https://peps.python.org/pep-0008/
 
 https://www.reddit.com/r/learnpython/comments/8cann8/tabs_vs_spaces_i_dont_get_it/
+
+- Curly brackets instead of : #258 
+  - https://github.com/modularml/mojo/discussions/258
+
 <hr>
 
 # Install(LinuxOS)
