@@ -91,3 +91,7 @@ https://news.hada.io/topic?id=9206&utm_source=weekly&utm_medium=email&utm_campai
 # A guidance language for controlling large language models(LLM).
 
 https://github.com/microsoft/guidance
+
+# awesome-mojo
+
+https://github.com/ego/awesome-mojo
