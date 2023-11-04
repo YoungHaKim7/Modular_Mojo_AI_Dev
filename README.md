@@ -8,9 +8,13 @@
 # vim tab setting
 
 ```
-set tabstop=2
-set shiftwidth=2
+set tabstop=4
+set shiftwidth=4
 ```
+
+- Python 에서는 tab을 사용하라고 하고 있고 space 4칸을 권장하고 있다. 
+
+https://peps.python.org/pep-0008/
 
 <hr>
 
