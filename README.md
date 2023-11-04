@@ -1,3 +1,15 @@
+# PATH
+
+```bash
+BASHRC=$( [ -f "$HOME/.bash_profile" ] && echo "$HOME/.bash_profile" || echo "$HOME/.bashrc" )
+echo 'export MODULAR_HOME="/Users/globalyoung/.modular"' >> "$BASHRC"
+echo 'export PATH="/Users/globalyoung/.modular/pkg/packages.modular.com_mojo/bin:$PATH"' >> "$BASHRC"
+source "$BASHRC"
+```
+
+
+<hr>
+
 # 언어소개 | 찐 파이썬 킬러?! 해외에서 난리난 언어 Mojo 🔥
 
 https://youtu.be/fYb2DkFo01U
