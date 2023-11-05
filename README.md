@@ -66,6 +66,7 @@ $ modular install mojo
 # Downloading artifacts. Please wait..
 ```
 
+
 # PATH
 
 ```bash
@@ -75,6 +76,21 @@ echo 'export PATH="/Users/globalyoung/.modular/pkg/packages.modular.com_mojo/bin
 source "$BASHRC"
 ```
 
+# Update Mojo
+
+- Mojo is a work in progress and we will release regular updates to the Mojo language and SDK tools. For information about each release, see the Mojo changelog.
+
+- To check your current Mojo version, use the --version option:
+
+```
+mojo --version
+```
+
+- To update to the latest Mojo version, use the modular update command:
+
+```
+modular update mojo
+```
 
 <hr>
 
