@@ -12,6 +12,15 @@ set tabstop=4
 set shiftwidth=4
 ```
 
+- space 오류나는거 탭으로 바꾸기(역시 Vim 최강)
+```
+// 물어보고 스패이스 4칸 탭으로 바꾸기
+:%s/    /\t/gc
+
+// 안 물어보고 바꾸기
+:%s/    /\t
+```
+
 - Python 에서는 tab을 사용하라고 하고 있고 space 4칸을 권장하고 있다. 
 
 https://peps.python.org/pep-0008/
