@@ -32,6 +32,14 @@ https://www.reddit.com/r/learnpython/comments/8cann8/tabs_vs_spaces_i_dont_get_i
 
 <hr>
 
+# Numbers every LLM developer should know. 
+- GitHub - ray-project/llm-numbers: 
+  - Contribute to ray-project/llm-numbers development by creating an account on GitHub.
+    - https://github.com/ray-project/llm-numbers
+
+
+<hr>
+
 # Install(LinuxOS)
 
 - python3.10-venv 설치 되어 있어야함
