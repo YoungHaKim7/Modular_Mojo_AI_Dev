@@ -32,14 +32,6 @@ https://www.reddit.com/r/learnpython/comments/8cann8/tabs_vs_spaces_i_dont_get_i
 
 <hr>
 
-# Numbers every LLM developer should know. 
-- GitHub - ray-project/llm-numbers: 
-  - Contribute to ray-project/llm-numbers development by creating an account on GitHub.
-    - https://github.com/ray-project/llm-numbers
-    - 위에 보고 좀 더 심화 과정
-      - https://www.ray.io/
-
-
 <hr>
 
 # Install(LinuxOS)
@@ -141,6 +133,13 @@ https://www.modular.com/blog
 - LLM을 사용할 때 중요한 숫자에 대한 정리. https://github.com/ray-project/llm-numbers
 
 https://news.hada.io/topic?id=9206&utm_source=weekly&utm_medium=email&utm_campaign=202321
+
+- Numbers every LLM developer should know. 
+  - GitHub - ray-project/llm-numbers: 
+    - Contribute to ray-project/llm-numbers development by creating an account on GitHub.
+      - https://github.com/ray-project/llm-numbers
+        - 위에 보고 좀 더 심화 과정
+          - https://www.ray.io/
 
 # A guidance language for controlling large language models(LLM).
 
