@@ -28,18 +28,22 @@ echo "\x09\x09echo \x22\x09\x09print(x)\x22 >> src/main.mojo" >> Makefile
 # Makefile
 
 ```Makefile
+MOJO = mojo 
+
+SOURCE_MOJO = ./src/main.mojop
+TARGET = ./target/main
+
 r:
 		rm -rf target
 		mkdir target
-		mojo build -o target/main src/main.mojo
-		./target/main
+		$(MOJO) build -o $(TARGET) $(SOURCE_MOJO)
+		$(TARGET)
 
 b:
-		mojo src/main.mojo -d target
-		mojo ./target/main
+		$(MOJO) src/main.mojo -d target
 
 clean:
-		rm -rf ./target
+		rm -rf target
 
 init:
 		mkdir src
