@@ -30,7 +30,7 @@ echo "\x09\x09echo \x22\x09\x09print(x)\x22 >> src/main.mojo" >> Makefile
 ```Makefile
 MOJO = mojo 
 
-SOURCE_MOJO = ./src/main.mojop
+SOURCE_MOJO = ./src/main.mojo
 TARGET = ./target/main
 
 r:
