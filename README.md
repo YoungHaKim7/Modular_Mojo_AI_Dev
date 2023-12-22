@@ -141,6 +141,9 @@ https://news.hada.io/topic?id=9206&utm_source=weekly&utm_medium=email&utm_campai
         - 위에 보고 좀 더 심화 과정
           - https://www.ray.io/
 
+## CheatSheet
+<img src="https://private-user-images.githubusercontent.com/9677264/239074091-5d40c6a3-84d7-436a-8fc4-a8d58008765d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDMyMTQxNTMsIm5iZiI6MTcwMzIxMzg1MywicGF0aCI6Ii85Njc3MjY0LzIzOTA3NDA5MS01ZDQwYzZhMy04NGQ3LTQzNmEtOGZjNC1hOGQ1ODAwODc2NWQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQUlXTkpZQVg0Q1NWRUg1M0ElMkYyMDIzMTIyMiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyMzEyMjJUMDI1NzMzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZGQ3MmY4ZTFiOTkzNDg1MzFiMTUwM2E5NDc1M2Y4OTdmZmUwZDQyMzY5MGQ5ZGI4NTdlMzYyODZlN2YxZTdkZiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.EM0mxZZja6XsWdjIKaD4G1jssMsyBhZnnPGNNGznk_k" />
+
 # A guidance language for controlling large language models(LLM).
 
 https://github.com/microsoft/guidance
