@@ -94,6 +94,9 @@ mojo --version
 modular update mojo
 ```
 
+# [Proposal] Mojo project manifest and build tool 
+https://github.com/modularml/mojo/discussions/1785
+
 <hr>
 
 # 언어소개 | 찐 파이썬 킬러?! 해외에서 난리난 언어 Mojo 🔥
