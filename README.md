@@ -69,7 +69,7 @@ $ modular install mojo
 ```
 
 
-# macOS Install
+# macOS Install(지금은 Linux만 되는듯 240324)
 
 - https://docs.modular.com/engine/get-started
 
