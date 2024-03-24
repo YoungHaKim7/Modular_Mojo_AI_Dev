@@ -69,6 +69,10 @@ $ modular install mojo
 ```
 
 
+# macOS Install
+
+- https://docs.modular.com/engine/get-started
+
 # PATH
 
 ```bash
