@@ -82,6 +82,33 @@ echo 'export PATH="/Users/globalyoung/.modular/pkg/packages.modular.com_mojo/bin
 source "$BASHRC"
 ```
 
+```bash
+# Configs complete, running post-install hooks...
+🔥 Mojo installed! 🔥
+
+Mojo's Python virtual environment created at /home/gy/.modular/pkg/packages.modular.com_mojo/venv
+
+If you are using ZSH (default on macOS), run the following commands:
+
+echo 'export MODULAR_HOME="/home/gy/.modular"' >> ~/.zshrc
+echo 'export PATH="/home/gy/.modular/pkg/packages.modular.com_mojo/bin:$PATH"' >> ~/.zshrc
+source ~/.zshrc
+
+If you are using bash, run the following commands:
+
+BASHRC=$( [ -f "$HOME/.bash_profile" ] && echo "$HOME/.bash_profile" || echo "$HOME/.bashrc" )
+echo 'export MODULAR_HOME="/home/gy/.modular"' >> "$BASHRC"
+echo 'export PATH="/home/gy/.modular/pkg/packages.modular.com_mojo/bin:$PATH"' >> "$BASHRC"
+source "$BASHRC"
+
+Then enter 'mojo' to start the Mojo REPL.
+
+For tool help, enter 'mojo --help'.
+For more docs, see https://docs.modular.com/mojo.
+
+```
+
+
 # Update Mojo
 
 - Mojo is a work in progress and we will release regular updates to the Mojo language and SDK tools. For information about each release, see the Mojo changelog.
