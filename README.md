@@ -108,6 +108,39 @@ For more docs, see https://docs.modular.com/mojo.
 
 ```
 
+<hr>
+
+# Max 설치 방법
+- Open a terminal and install the modular command line tool with this helper script:
+
+```bash
+curl -s https://get.modular.com | sh -
+```
+
+Or, click here to see the manual install commands.
+
+-  Sign into your Modular account:
+
+```bash
+modular auth
+```
+
+- Install the MAX SDK:
+
+```bash
+modular install max
+```
+
+- Install the MAX Engine Python package:
+
+```bash
+MAX_PATH=$(modular config max.path) \
+  && python3 -m pip install --find-links $MAX_PATH/wheels max-engine
+```
+
+https://docs.modular.com/engine/get-started
+
+<hr>
 
 # Update Mojo
 
