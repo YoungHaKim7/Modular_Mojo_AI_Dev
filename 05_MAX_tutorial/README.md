@@ -5,7 +5,7 @@
 - Test 환경
 ```bash
 ./neofetch 
-             ...-:::::-...                 gy@gy-MS-7D42 
+             ...-:::::-...                 g@g-M-7D 
           .-MMMMMMMMMMMMMMM-.              ------------- 
       .-MMMM`..-:::::::-..`MMMM-.          OS: Linux Mint 21.3 x86_64 
     .:MMMM.:MMMMMMMMMMMMMMM:.MMMM:.        Host: Micro-Star International Co.,  
