@@ -12,6 +12,8 @@
 
   ```bash
   git clone https://github.com/modularml/max.git
+
+  cd max/examples/inference/mistral7b-python-onnx
   ```
 
 ```bash
