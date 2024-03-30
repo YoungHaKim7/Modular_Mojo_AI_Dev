@@ -3,6 +3,7 @@
 - https://docs.modular.com/engine/get-started
 
 ```bash
+$ git clone https://github.com/modularml/max.git
 
 $ cd max/examples/inference/bert-python-torchscript
 
