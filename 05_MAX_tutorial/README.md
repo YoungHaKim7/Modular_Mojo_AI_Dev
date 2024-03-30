@@ -2,6 +2,30 @@
 
 - https://docs.modular.com/engine/get-started
 
+- Test 환경
+```bash
+./neofetch 
+             ...-:::::-...                 gy@gy-MS-7D42 
+          .-MMMMMMMMMMMMMMM-.              ------------- 
+      .-MMMM`..-:::::::-..`MMMM-.          OS: Linux Mint 21.3 x86_64 
+    .:MMMM.:MMMMMMMMMMMMMMM:.MMMM:.        Host: Micro-Star International Co.,  
+   -MMM-M---MMMMMMMMMMMMMMMMMMM.MMM-       Kernel: 5.15.0-101-generic 
+ `:MMM:MM`  :MMMM:....::-...-MMMM:MMM:`    Uptime: 24 mins 
+ :MMM:MMM`  :MM:`  ``    ``  `:MMM:MMM:    Packages: 3125 (dpkg) 
+.MMM.MMMM`  :MM.  -MM.  .MM-  `MMMM.MMM.   Shell: fish 3.7.1 
+:MMM:MMMM`  :MM.  -MM-  .MM:  `MMMM-MMM:   Resolution: 1920x1080 
+:MMM:MMMM`  :MM.  -MM-  .MM:  `MMMM:MMM:   DE: Cinnamon 6.0.4 
+:MMM:MMMM`  :MM.  -MM-  .MM:  `MMMM-MMM:   WM: Mutter (Muffin) 
+.MMM.MMMM`  :MM:--:MM:--:MM:  `MMMM.MMM.   WM Theme: Mint-Y-Dark-Aqua (Mint-Y) 
+ :MMM:MMM-  `-MMMMMMMMMMMM-`  -MMM-MMM:    Theme: Mint-Y-Aqua [GTK2/3] 
+  :MMM:MMM:`                `:MMM:MMM:     Icons: Mint-Y-Sand [GTK2/3] 
+   .MMM.MMMM:--------------:MMMM.MMM.      Terminal: gnome-terminal 
+     '-MMMM.-MMMMMMMMMMMMMMM-.MMMM-'       CPU: 13th Gen Intel i5-13600K (20) @ 
+       '.-MMMM``--:::::--``MMMM-.'         GPU: NVIDIA GeForce RTX 3060 Ti Lite 
+            '-MMMMMMMMMMMMM-'              GPU: Intel Device a780 
+               ``-:::::-``                 Memory: 3736MiB / 96334MiB 
+```
+
 ```bash
 $ git clone https://github.com/modularml/max.git
 
