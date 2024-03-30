@@ -34,6 +34,22 @@ https://www.reddit.com/r/learnpython/comments/8cann8/tabs_vs_spaces_i_dont_get_i
 
 <hr>
 
+# Install MAX(이게 superset이라 mojo는 지우면 된다.)
+
+```
+# Extraction complete, setting configs...
+# Configs complete, running post-install hooks...
+==== CONFLICTING PACKAGES DETECTED ====
+
+The MAX package is a superset of the Mojo package.
+
+Having both standalone Mojo package and the MAX package installed
+at the same time can cause version confusion.
+
+We recommend uninstalling the standalone Mojo using `modular uninstall mojo`.  You can still use Mojo from the MAX package..
+
+```
+
 # Install(LinuxOS)
 
 - python3.10-venv 설치 되어 있어야함
