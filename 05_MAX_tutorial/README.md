@@ -29,8 +29,8 @@
 - 설치 tree
 
 ```bash
-modular/pkg/packages.modular.com_max
-❯ eza -la -TL2 --icons
+.modular/pkg/packages.modular.com_max
+$ eza -la -TL2 --icons
 drwxrwxr-x    - gy 30 Mar 18:39  .
 drwxrwxr-x    - gy 30 Mar 18:39 ├──  .modularpkg
 drwxrwxr-x    - gy 30 Mar 18:39 │  ├──  config
