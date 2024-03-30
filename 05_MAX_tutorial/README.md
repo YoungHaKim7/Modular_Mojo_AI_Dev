@@ -171,13 +171,6 @@ $ cd max/examples/inference/bert-python-torchscript
 
 $ python3 -m pip install -r requirements.txt
 
-
-$ uv venv
-
-Using Python 3.10.12 interpreter at: /usr/bin/python3
-Creating virtualenv at: .venv
-Activate with: source .venv/bin/activate.fish
-
 $ ls
 config.pbtxt  deploy.sh*  README.md  requirements.txt  run.sh*  simple-inference.py  triton-inference.py  venv/
 
