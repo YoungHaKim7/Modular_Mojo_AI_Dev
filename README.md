@@ -6,6 +6,8 @@
 
 # mojo 깃허브
 - https://github.com/modularml/mojo
+- (Mojo Standard Library)These are all the modules in the Mojo standard library.
+  - https://docs.modular.com/mojo/lib
 
 # vim tab setting
 
