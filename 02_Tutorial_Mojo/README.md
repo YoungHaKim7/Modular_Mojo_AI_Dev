@@ -11,7 +11,7 @@ https://youtu.be/5Sm9IVMet9c?si=OVAgKkNVj2N8CT38
 
 <hr>
 
-# # 한개만 만들기도 힘든데 LLVM, Clang, Swift, Mojo 창시자 ㅋㅋ 괴물이구만 ㅋㅋ
+# 한개만 만들어서 대박내기 힘든데 LLVM, Clang, Swift, Mojo 창시자 ㅋㅋ 괴물이구만 ㅋㅋ
 
 # I Interviewed The Creator Of LLVM, Clang, Swift, and Mojo | ThePrimeTime
 - https://youtu.be/ovYbgbrQ-v8?si=islH9NhCEhpYX6_J
