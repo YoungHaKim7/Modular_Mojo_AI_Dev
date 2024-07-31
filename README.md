@@ -128,6 +128,14 @@ For more docs, see https://docs.modular.com/mojo.
 
 ```
 
+- 업데이트 하니 나온 메세지(macOS)
+```bash
+modular
+The Modular tool expects or will create a MODULAR_HOME directory.
+This defaults to `~/.modular`. You can create your own, and if you do,
+please add `MODULAR_HOME=/path/to/your/dir` to your environment.
+```
+
 <hr>
 
 # Max 설치 방법
