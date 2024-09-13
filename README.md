@@ -38,7 +38,7 @@ https://www.reddit.com/r/learnpython/comments/8cann8/tabs_vs_spaces_i_dont_get_i
 
 <hr>
 
-# Masic으로 바뀜
+# (240914)Masic으로 바뀜
 - https://docs.modular.com/mojo/manual/get-started
 
 
