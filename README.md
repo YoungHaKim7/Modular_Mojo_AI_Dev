@@ -38,6 +38,9 @@ https://www.reddit.com/r/learnpython/comments/8cann8/tabs_vs_spaces_i_dont_get_i
 
 <hr>
 
+# Masic으로 바뀜
+- https://docs.modular.com/mojo/manual/get-started
+
 # Install MAX(이게 superset이라 mojo는 지우면 된다.)
 
 ```
