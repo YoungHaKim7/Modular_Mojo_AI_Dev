@@ -41,6 +41,25 @@ https://www.reddit.com/r/learnpython/comments/8cann8/tabs_vs_spaces_i_dont_get_i
 # Masic으로 바뀜
 - https://docs.modular.com/mojo/manual/get-started
 
+
+```
+#프로젝트 만들기 
+magic init hello-world --format mojoproject
+
+
+# 가상환경 설정
+cd hello-world && magic shell
+
+
+# 라이브러리 추가하기(max라는 라이브러리 추가)
+cd hello-world
+
+magic add max
+
+magic update
+```
+
+
 # Install MAX(이게 superset이라 mojo는 지우면 된다.)
 
 ```
