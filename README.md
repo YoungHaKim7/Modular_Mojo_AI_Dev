@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.modular.com/"><img alt="python" width="130px" src="https://user-images.githubusercontent.com/67513038/236720090-fd0d6b3f-5c81-46f4-9df7-94c458a80622.png">  
+  <a href="https://www.modular.com/"><img alt="python" width=55px src="https://user-images.githubusercontent.com/67513038/236720090-fd0d6b3f-5c81-46f4-9df7-94c458a80622.png">  
 </p>
 
 <hr>
